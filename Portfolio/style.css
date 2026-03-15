@@ -1,0 +1,20 @@
+.block1{
+    background: rgb(232, 189, 246);
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mycontainer{
+    padding-top: 130px;
+}
+.image{
+    padding-left: 100px;
+}
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:43%;  
+  float:left;
+}
