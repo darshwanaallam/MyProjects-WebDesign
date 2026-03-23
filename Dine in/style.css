@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(202, 166, 235);
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+.dine{
+    font-style: italic;
+    font-size: 100px;
+}
+button{
+    color: black;
+    width: 15%;
+    height: 8%;
+    font-size: 20px;
+    background-color: white;
+    top: 80%;
+    right: 50%;
+}
+button:hover{
+    font-size: 20px;
+}
+
+.menu{
+    width: 150%;
+    height: 150%;
+}
+button:hover{
+    font-size: 30px;
+}
+
+li{
+    text-align: center;
+}
+li:hover{
+    font-size: 40px;
+    cursor: pointer;
+}

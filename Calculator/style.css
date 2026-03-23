@@ -1,0 +1,86 @@
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #c3c0c0;
+}
+.calc{
+    position: absolute;
+    top: 180px;
+    left: 600px;
+    background: rgb(43, 42, 42);
+    height: 440px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+input{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    right: 15px;
+    background: whitesmoke;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    height: 80px;
+    font-size: 40px;
+    text-align: right;
+}
+.body{
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+.btn{
+    height: 60px;
+    width: 60px;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    background: rgb(219, 222, 224);
+    color: rgb(8, 8, 8);
+}
+.ope{
+    height: 60px;
+    width: 60px;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    background: rgb(117, 155, 220);
+    color: white;
+}
+.res{
+    height: 60px;
+    width: 60px;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    background: rgb(40, 159, 16);
+    color: white;
+}
+.clear{
+    height: 60px;
+    width: 60px;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    background: rgb(242, 59, 39);
+    color: white;
+}
+.btn:hover{
+    background: rgb(196, 196, 201);
+    font-size: 22px;
+}
+.ope:hover{
+    background: rgb(112, 112, 237);
+    font-size: 22px;
+}
+.res:hover{
+    background: rgb(4, 114, 6);
+    font-size: 22px;
+}
+.clear:hover{
+    background: rgb(211, 37, 2);
+    font-size: 22px;
+}
