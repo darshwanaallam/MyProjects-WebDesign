@@ -1,48 +1,46 @@
-.mainblock{
+.page1{
     background: linear-gradient(rgb(181, 204, 246), rgb(252, 181, 193));
-    height: 750px;
-    width: auto;
-    margin: auto;
 }
- .head{
+.head{
     padding-top: 30px;
-    padding-left: 980px;
+    padding-left: 900px;
  }
 .button{
     font-size: 20px;
+    color: rgb(86, 22, 147);
+    background: rgb(248, 196, 244);
+    height: 38px;
+    width: 115px;
+    border-radius: 10px;
+    border: 1px solid blueviolet;
+}
+.button:hover{
+    background: rgb(232, 169, 248);
+}
+.btn{
+    text-decoration: none;
 }
 .b1{
-    width: 500px;
     text-align: left;
     padding-left: 100px;
-    padding-top: 100px;
-}
-
-div.body{
-    width: 100%;
-    overflow: auto;
-}
-
-div.body div{
-    width: 33%;
-    float: left;
-    padding-top: 80px;
-    padding-left: 150px;
-    padding-right: 100px;
+    padding-top: 50px;
+    padding-right: 900px;
+    padding-bottom: 107px;
 }
 .image{
+    position: absolute;
+    top: 150px;
+    left: 900px;
     border-radius: 2rem;
     border-style: double;
     border-color: blueviolet;
 }
-.mainblock2{
-    background: linear-gradient(rgb(181, 204, 246), rgb(252, 181, 193));
-    height: 750px;
-    width: auto;
-    margin: auto;
+
+.page2{
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(181, 204, 246), rgb(252, 181, 193));
 }
-
-
 .text{
     position: absolute;
     top: 0;
@@ -52,15 +50,36 @@ div.body div{
 }
 .buttonw{
     position: absolute;
-    top: 3rem;
+    top: 2rem;
     right: 3rem;
     font-size: 20px;
+    color: rgb(86, 22, 147);
+    background: rgb(248, 196, 244);
+    height: 38px;
+    width: 115px;
+    border-radius: 10px;
+    border: 1px solid blueviolet;
 }
 .buttonh{
     position: absolute;
-    top: 3rem;
-    right: 10rem;
+    top: 2rem;
+    right: 11rem;
     font-size: 20px;
+    color: rgb(86, 22, 147);
+    background: rgb(248, 196, 244);
+    height: 38px;
+    width: 115px;
+    border-radius: 10px;
+    border: 1px solid blueviolet;
+}
+.btnh{
+    text-decoration: none;
+}
+.buttonw:hover{
+    background: rgb(232, 169, 248);
+}
+.buttonh:hover{
+    background: rgb(232, 169, 248);
 }
 
 .braclet{
