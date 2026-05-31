@@ -79,7 +79,8 @@ This project helps practice:
 
 ## Screenrecording of website
 
-<video src="colorchess.mp4"></video>
+<img src="colorchess.gif" alt="">
+
 
 ## Author
 
