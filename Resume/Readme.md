@@ -55,5 +55,5 @@ Created as a beginner HTML and CSS project for practicing webpage structure and 
 
 ## Screenshot of website
 
-<img class="img" src="res1" alt="" width="auto" height="auto">
-<img class="img" src="res2" alt="" width="auto" height="auto">
+<img class="img" src="res1.png" alt="" width="auto" height="auto">
+<img class="img" src="res2.png" alt="" width="auto" height="auto">
