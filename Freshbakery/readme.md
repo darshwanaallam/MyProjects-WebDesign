@@ -121,12 +121,12 @@ Created as a front-end web development project using HTML, CSS, and JavaScript.
 
 ## Screenshots of website
 
-<img src="a1.jpg" alt="">
-<img src="a2.jpg" alt="">
-<img src="a3.jpg" alt="">
-<img src="a4.jpg" alt="">
-<img src="a5.jpg" alt="">
-<img src="a6.jpg" alt="">
-<img src="a7.jpg" alt="">
-<img src="a8.jpg" alt="">
-<img src="a9.jpg" alt="">
+<img src="a1.png" alt="">
+<img src="a2.png" alt="">
+<img src="a3.png" alt="">
+<img src="a4.png" alt="">
+<img src="a5.png" alt="">
+<img src="a6.png" alt="">
+<img src="a7.png" alt="">
+<img src="a8.png" alt="">
+<img src="a9.png" alt="">
